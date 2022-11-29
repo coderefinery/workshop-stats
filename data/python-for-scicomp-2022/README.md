@@ -1,5 +1,10 @@
 # Python for SciComp 2022
 
+## Registrations
+* Primary form: 384 (152 from Finland)
+* Webropol: 36
+
+
 ## Twitch livestream viewers
 
 unique / average excluding start/stop / live
@@ -13,6 +18,7 @@ Country distribution
 - day 1:
 - day 5:
 
+
 ## Twitch video views
 
 On monday after course (most views came the afternoon right after the
@@ -22,6 +28,7 @@ course):
 - day2: 519
 - day3: 348
 - day4: 328
+
 
 ## Website visitors aaltoscicomp.github.io/python-for-scicomp
 
