@@ -7,22 +7,22 @@
 
 ## Twitch livestream viewers
 
-unique / average excluding start/stop / live
+unique / average / average excluding start/stop / max / live
 
-- day 1: 428 / 220
-- day 2:
-- day 3:
-- day 4:
+- day 1: 428 / 203  / 220 / 437(*) / 1171(*)    # * distorted due to stream crash
+- day 2: 297 / 140 / 150 / 167 / 438
+- day 3: 218 / 111 / 124 / 132 / 292
+- day 4: 203 / 96 / 106 / 113 / 282
 
 Country distribution
-- day 1:
-- day 5:
+- day 1: FI 44%, SE 19%, NO 7%, US 3%, IN 3%, DE 2%
+- day 4: FI 31%, SE 24%, NO 9%, US 6%, DE 3%, FR 2%
 
 
 ## Twitch video views
 
-On monday after course (most views came the afternoon right after the
-course):
+Six days after day 1 of the course (most views came the afternoon
+right after the course):
 
 - day1: 186/743 (at 22:30: 665/489) (before/after the stream break)
 - day2: 519
